@@ -1,4 +1,4 @@
-### Hi there 👋, Paolo Lapeña
+# Paolo Lapeña
 ![](https://github.com/PaoloLapena/PaoloLapena/blob/main/githubheader.jpg)
 
 4th Year Information Technology Student
