@@ -34,6 +34,10 @@
 
 <h1 align="left">Certification</h1>
 
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5E75C98660FFBB32FBF705D50F72815B766F8EF9CDDD3032B0B299C060442B5F">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a>
+<p>Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</p>
+<p>13 December 2021</p>
+
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FAB9D38F8308FE908E47CA5140CD0D7C84313A00C50B007F0C194886F1DD5731">Oracle Autonomous Database Cloud 2021 Certified Specialist</a>
 <p>Oracle Autonomous Database Cloud 2021 Certified Specialist</p>
 <p>13 December 2021</p>
