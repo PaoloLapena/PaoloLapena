@@ -33,6 +33,7 @@
 <p>2018-2020</p>
 
 <h1 align="left">Certification</h1>
+<p><a href="[https://www.w3schools.com/">Visit W3Schools.com!](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D85F56AC3F42B78E0DCAC346A5EA0A454D8D582E35AD65A523BCF147B51CDBAA)</a></p>
 <p>Oracle Autonomous Database Cloud 2021 Certified Specialist</p>
 <p>13 December 2021</p>
 
