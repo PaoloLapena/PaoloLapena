@@ -1,4 +1,5 @@
 ![](https://github.com/PaoloLapena/PaoloLapena/blob/main/githubheader.jpg)
+<h1 align="center">PAOLO LAPEÑA</h1>
 <h3 align="center">4th Year Information Technology Student</h3>
 
 <h3 align="left">Connect with me:</h3>
