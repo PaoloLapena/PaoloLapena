@@ -1,6 +1,5 @@
 ![](https://github.com/PaoloLapena/PaoloLapena/blob/main/githubheader.jpg)
 <h1 align="center">PAOLO LAPEÑA</h3>
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paolo-lape%C3%B1a-9a1393239/" target="_blank">
@@ -17,7 +16,6 @@
   </a>
 </div>
 
-###
 <h3 align="center">4th Year Information Technology Student</h3>
 
 
