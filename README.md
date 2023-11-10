@@ -1,5 +1,5 @@
 ![](https://github.com/PaoloLapena/PaoloLapena/blob/main/githubheader.jpg)
-<# align = "center"> PAOLO LAPEÑA </#>
+<h1 align="center">PAOLO LAPEÑA</h3>
 <h3 align="center">4th Year Information Technology Student</h3>
 
 <h3 align="left">Connect with me:</h3>
