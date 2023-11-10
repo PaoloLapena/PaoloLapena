@@ -1,8 +1,26 @@
 ![](https://github.com/PaoloLapena/PaoloLapena/blob/main/githubheader.jpg)
 <h1 align="center">PAOLO LAPEÑA</h3>
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/paolo-lape%C3%B1a-9a1393239/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/paaawwwiii/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="gmail.com/paolo.lapena.neu.edu.ph" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="@pawwwii" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
 <h3 align="center">4th Year Information Technology Student</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
